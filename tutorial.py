@@ -3,6 +3,7 @@ import joblib
 import pandas as pd
 import numpy as np
 import plotly.express as plt
+import joblib
 
 
 st.title('Uber Pickups in NYC')
